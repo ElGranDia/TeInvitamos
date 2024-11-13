@@ -65,6 +65,15 @@ body, html {
     text-align: center;
     padding: 20px;
   }
+  .mapa{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .mapita{
+    margin: 1%;
+  }
   
   .section-logo {
     width: 50px;
